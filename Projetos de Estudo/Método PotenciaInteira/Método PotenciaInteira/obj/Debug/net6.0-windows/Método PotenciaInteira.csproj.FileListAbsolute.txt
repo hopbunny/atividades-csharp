@@ -1,0 +1,18 @@
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método PotenciaInteira.csproj.AssemblyReference.cache
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método_PotenciaInteira.Potencia.resources
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método_PotenciaInteira.Properties.Resources.resources
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método PotenciaInteira.csproj.GenerateResource.cache
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método PotenciaInteira.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método PotenciaInteira.AssemblyInfoInputs.cache
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método PotenciaInteira.AssemblyInfo.cs
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método PotenciaInteira.csproj.CoreCompileInputs.cache
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\bin\Debug\net6.0-windows\Método PotenciaInteira.exe
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\bin\Debug\net6.0-windows\Método PotenciaInteira.deps.json
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\bin\Debug\net6.0-windows\Método PotenciaInteira.runtimeconfig.json
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\bin\Debug\net6.0-windows\Método PotenciaInteira.dll
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\bin\Debug\net6.0-windows\Método PotenciaInteira.pdb
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método PotenciaInteira.dll
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\refint\Método PotenciaInteira.dll
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método PotenciaInteira.pdb
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\Método PotenciaInteira.genruntimeconfig.cache
+D:\Alunos\Downloads\Trabalho Pratico Final\QUESTAO 2\Método PotenciaInteira\Método PotenciaInteira\obj\Debug\net6.0-windows\ref\Método PotenciaInteira.dll
